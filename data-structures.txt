@@ -1,0 +1,19 @@
+Group {
+
+  Name
+  Date
+  Time
+  Location
+  Unique link
+
+  Array of participants[] {
+
+    Name
+    Password
+    Secret santa
+    Wish list[]
+    Email (optional)
+
+  }
+
+}

@@ -1,0 +1,21 @@
+Use case 1 - creating a group
+Arrive at the site to create a new secret santa group
+Site shows instructions
+Enter name of group
+Enter participants names (including user)
+Optionally enter date and time and location
+Submit
+Site shows instructions
+Site shows unique link to group
+Site shows list of names and respective passwords
+Optionally email this information
+
+Use case 2 - group member following link
+Arrive at site with group link
+Enter name and password
+Submit
+Site shows name of secret santa
+Site shows instructions
+Optionally participant can add a wish list
+Optionally show secret santa wish list
+Optionally email this information
